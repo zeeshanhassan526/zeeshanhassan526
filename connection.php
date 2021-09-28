@@ -24,7 +24,7 @@ $con =mysqli_connect("localhost","root","","icecream");
 
 // echo "Connection failed: " . $e->getMessage();
 
-// }
+// }.//ghgjghjhjkh
 
 
 
